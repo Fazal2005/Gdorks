@@ -5,6 +5,6 @@
 ## Usage
 
 ```
-$ git clone https://github.com/Fazal2005/Gdorks.git && cd Gdorks && chmod +x *.sh 
+$ git clone https://github.com/Fazal2005/gdorks.git && cd gdorks && chmod +x *.sh 
 $ ./gdorks.sh target.com
 ```
